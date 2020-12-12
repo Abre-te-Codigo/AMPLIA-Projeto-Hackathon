@@ -7,5 +7,5 @@ A Amplia é a ferramenta online de acessibilidade que potencializa experiências
 - [https://github.com/ivannaAtech/amplia-abrete-codigo](https://github.com/ivannaAtech/amplia-abrete-codigo)
 
 ## Vídeos 
-- [https://youtu.be/ZmjknzMWtKY](https://youtu.be/ZmjknzMWtKY)
-- [https://youtu.be/o-QKmUq6uno](https://youtu.be/o-QKmUq6uno)
+- Pitch [https://youtu.be/ZmjknzMWtKY](https://youtu.be/ZmjknzMWtKY)
+- Demo [https://youtu.be/o-QKmUq6uno](https://youtu.be/o-QKmUq6uno)
